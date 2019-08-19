@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18138" started-at="2019-05-16T12:19:40Z" finished-at="2019-05-16T12:19:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18138" started-at="2019-05-16T12:19:40Z" finished-at="2019-05-16T12:19:58Z">
+      <class name="samples.Radiobutton">
+        <test-method status="PASS" signature="Radiobutton()[pri:0, instance:samples.Radiobutton@548a9f61]" name="Radiobutton" duration-ms="18064" started-at="2019-05-16T12:19:40Z" finished-at="2019-05-16T12:19:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Radiobutton -->
+      </class> <!-- samples.Radiobutton -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
